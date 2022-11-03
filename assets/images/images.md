@@ -1,1 +1,3 @@
-//images
+//
+
+## this is an image folder
