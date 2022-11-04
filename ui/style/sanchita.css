@@ -1,0 +1,113 @@
+#wholepage{
+    background-color: aliceblue;
+        font-family: 'Inter Tight', sans-serif;
+        padding: 2rem;
+        margin: 2rem;
+}
+#ourfeature{
+    font-size:3rem; 
+    font-weight:600;
+    color:rgb(16, 35, 82);
+}
+#headpart{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding:0 6rem ;
+    margin:0 3rem;
+}
+#texthere{
+    font-weight:400;
+    font-size: 1.3rem;
+}
+#picture{
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     padding:5rem;
+     margin-left:6rem;
+    }
+#pic_indv1{
+    display:flex;
+     flex-direction: row;
+     position:relative;
+     padding: 0.3rem;
+ }
+ #pic_indv2{
+    display:flex;
+    flex-direction: row;
+    position:relative;
+    padding: 0.3rem;
+ }
+ /* image1 */
+#indv1{
+    position: relative;
+    padding: 1rem;
+}
+
+#wr1{
+   position: absolute;
+   top:1rem;
+   left:1rem;
+   font-weight: 700;
+   font-weight:0.9rem;
+}
+#wrdown1{
+    position: absolute;
+    top:3rem;
+    left:1rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+ }
+ /* image2 */
+ #indv2{
+    position: relative;
+    padding: 1rem;
+  
+}
+#wr2{
+   position: absolute;
+   top:1.5rem;
+   left:1.5rem;
+   font-size: 1.5rem;
+   font-weight: 700;
+}
+#wrdown2{
+    position: absolute;
+    font-size: 0.8rem;
+    top:3.5rem;
+    left:1.5rem;
+    font-weight: 600;
+ }
+ /* image3 */
+ #indv3{
+    padding: 1rem;
+    position: relative;
+ }
+ /* image4 */
+ #indv4{
+    position: relative;
+    padding: 1rem;
+ }
+#wr4{
+   position: absolute;
+   bottom:1.8rem;
+   right:1rem;
+   font-size: 0.8rem;
+   font-weight: 600;
+  
+}
+#wrdown4{
+    position: absolute;
+    bottom:1rem;
+    right:1rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+ }
+ .btn-outline-dark{
+    position: absolute;
+    top: 11rem;
+    left: 13.5rem;
+    /* opacity: 1;  */
+ }
+  
