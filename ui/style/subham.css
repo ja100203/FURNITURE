@@ -1,0 +1,25 @@
+* {
+    margin: 2%;
+    padding: 0;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.class_flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card {
+    border-radius: 3%;
+}
+
+.show {
+    display: flex;
+    justify-content: center;
+}
+
