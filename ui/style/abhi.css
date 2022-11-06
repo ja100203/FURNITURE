@@ -45,3 +45,7 @@ h3{
 #customers .card:hover h3, #customers .card:hover i{
     color: #ffff00;
 }
+.card{
+    cursor: pointer;
+    height:20em;
+}
