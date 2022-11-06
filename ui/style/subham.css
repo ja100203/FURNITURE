@@ -14,8 +14,9 @@ h1 {
     justify-content: space-evenly;
 }
 
-.card {
+.card img {
     border-radius: 3%;
+    align-items: center;
 }
 
 .show {
@@ -23,3 +24,14 @@ h1 {
     justify-content: center;
 }
 
+img:hover {
+    background-color: black;
+}
+
+h1 {
+    color: rgb(10, 81, 38);
+}
+
+hr {
+    color: rgb(14, 121, 57);
+}
