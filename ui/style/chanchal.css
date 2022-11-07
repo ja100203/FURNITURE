@@ -1,5 +1,6 @@
 #complete{
     display: flex;
+    padding-bottom: 8rem;
 } 
 #Tex{
    padding-bottom:2rem; 
@@ -15,24 +16,11 @@
    padding-top: 0.3rem;
   padding-bottom:5rem; 
 }
-/* #button{
-   display:inline-block;
-   text-align:center;
-   padding:1rem;
-   text-decoration: none;
-
-} */
 #image{
    display:flex;
    flex-direction: row;
    align-items: center;
-   /* margin-top:-10rem; */
-   /* margin-left: 250px; */
 }
-/* .inner{
-     border:2px solid black;
-     width:190px;
-} */
 #Left{
    display:flex;
    flex-direction: row;
@@ -71,25 +59,7 @@
    font-style: bold italic;
    color:black;
    font-size: 1rem;
-   
-   /* margin-left: 100px; */
 }
-/* #img4{
-   margin-left: 600px;
-   font-style: bold italic;
-   color:black;
-   font-size: 25px;
-}
-#img5{
-    margin-left:65px;
-    font-style:bold italic;
-   color:black;
-   font-size: 25px;
-} */
-/* #lower{
-   display:flex;
-   flex-direction: row;
-} */
 
 body{
    background-color: aliceblue;

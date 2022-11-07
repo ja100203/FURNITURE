@@ -15,7 +15,7 @@
     }
 }
 .banner-image{
-    background-image: url("/assets/images/jan.jpg");
+    background-image: url("../../assets/images/jan.jpg");
     z-index: 1;
     background-repeat: no-repeat;
     height:30rem;
@@ -35,10 +35,6 @@
     bottom: 5rem;
     left: 15rem;
     right: 15rem;
-   /** padding-left: 40rem;
-    padding-right: 40rem;
-    padding-top: 10rem;
-    padding-bottom: 6rem;*/
 }
 #imag{
     opacity: 0.8;

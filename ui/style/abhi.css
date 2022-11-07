@@ -2,7 +2,9 @@
     margin:0;
     padding:0;
 }
-
+#customers{
+    padding-bottom: 8rem;
+}
 body{
     font-family: "Raleway", sans-serif;
     font-weight: 400;
