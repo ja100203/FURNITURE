@@ -10,6 +10,7 @@
       background-attachment: fixed;
       background-position: center;
       animation:change 30s infinite ease-in-out;
+      padding-bottom: 8rem;
   }
   @keyframes change{
     0%{
