@@ -10,7 +10,7 @@
     width:100%;
 }*/
 .banner-image{
-    background-image: url("pexels-donald-tong-189333.jpg");
+    background-image: url("/assets/images/jan.jpg");
     z-index: 1;
     background-repeat: no-repeat;
     height:30rem;
