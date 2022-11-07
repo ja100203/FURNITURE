@@ -9,6 +9,11 @@
     height:100%;
     width:100%;
 }*/
+@media(max-width:991px){
+    .news-box_janvi{
+        margin-bottom: 50px;
+    }
+}
 .banner-image{
     background-image: url("/assets/images/jan.jpg");
     z-index: 1;
@@ -39,22 +44,34 @@
     opacity: 0.8;
 }
 #text{
-    padding-left: 25rem;
+    padding-left: 24rem;
     padding-right: 20rem;
     padding-top: 6rem;
     padding-bottom: 6rem; 
 }
 #text h2{
-    margin-left: 10rem;
+    margin-left: 8rem;
     color: black;
     font-size: 2rem;
     font-weight: 200;
 }
+input[placeholder="Enter your email"]
+{
+    top: 3rem;
+   padding-top: 0.5rem;
+    padding-left:9rem;
+    text-align: left;
+    font-size:20px;
+}
 input[type="text"]
 {
-    padding-left:8rem;
-    text-align: center;
-    font-size:24px;
+    text-align: right;
+    top: 3rem;
+    left: 0rem;
+   padding-top: 0.5rem;
+    padding-left:3rem;
+    text-align: left;
+    font-size:20px;
 }
 button{
     width:max-content
@@ -68,7 +85,7 @@ button[type="submit"]
     color: white;
 }
 #text p{
-    margin-left: 10rem;
+    margin-left: 8rem;
 }
 footer{
     height: 25rem;
